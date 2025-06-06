@@ -73,8 +73,6 @@ Answer for Prompt 2:
 
 Created audio content of 23 mins.
 
-<img width="654" alt="Screenshot 2025-06-06 at 18 56 38" src="https://github.com/user-attachments/assets/716e9c08-5041-48ce-a3e5-46902dbd7b19" />
-<img width="402" alt="Screenshot 2025-06-06 at 19 00 39" src="https://github.com/user-attachments/assets/55594711-664e-465e-8aad-2f13a6c74663" />
 <img width="139" alt="image" src="https://github.com/user-attachments/assets/940580e3-6a86-4f4d-a21f-c264abcae8f1" />
 
 
