@@ -69,6 +69,13 @@ Answer for Prompt 2:
 <img width="1280" alt="Screenshot 2025-06-06 at 18 50 07" src="https://github.com/user-attachments/assets/b6cfb202-e15d-444f-a0da-8147f7c64e4a" />
 <img width="1275" alt="Screenshot 2025-06-06 at 18 50 24" src="https://github.com/user-attachments/assets/bf5f8da4-3aa1-4077-b6ed-da34a1acf66c" />
 
+4. Audio Overview for Multi-Modal Learning
+
+Created audio content of 23 mins.
+
+<img width="654" alt="Screenshot 2025-06-06 at 18 56 38" src="https://github.com/user-attachments/assets/716e9c08-5041-48ce-a3e5-46902dbd7b19" />
+<img width="402" alt="Screenshot 2025-06-06 at 19 00 39" src="https://github.com/user-attachments/assets/55594711-664e-465e-8aad-2f13a6c74663" />
+<img width="139" alt="image" src="https://github.com/user-attachments/assets/940580e3-6a86-4f4d-a21f-c264abcae8f1" />
 
 
 
