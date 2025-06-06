@@ -29,6 +29,16 @@ Answer for Prompt 1:
 <img width="1280" alt="Screenshot 2025-06-06 at 18 28 33" src="https://github.com/user-attachments/assets/a47a480b-404f-46bd-84c5-a52693265e90" />
 <img width="1280" alt="Screenshot 2025-06-06 at 18 29 00" src="https://github.com/user-attachments/assets/1f546e49-912f-40ca-8fb2-e87082729025" />
 
+Prompt 2: Can you explain Infrastructure as Code using content from the Week 6 lecture?
+
+Answer for Prompt 2:
+
+<img width="1280" alt="Screenshot 2025-06-06 at 18 34 25" src="https://github.com/user-attachments/assets/0312e902-d17c-4719-872f-ce3fdd1cfd4b" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 34 45" src="https://github.com/user-attachments/assets/849ab96b-1bf5-4d19-b3b6-40ad8c0970c8" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 34 59" src="https://github.com/user-attachments/assets/6049d22b-a6e0-4974-9585-938605997829" />
+
+
+
 
 
 
