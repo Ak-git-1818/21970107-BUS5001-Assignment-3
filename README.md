@@ -78,18 +78,19 @@ Created audio content of 23 mins.
 5. Frequently Answered Questions
 
 <img width="499" alt="Screenshot 2025-06-06 at 19 33 44" src="https://github.com/user-attachments/assets/93d5b80c-e402-4011-926f-b7e11f320738" />
-
 <img width="481" alt="Screenshot 2025-06-06 at 19 34 06" src="https://github.com/user-attachments/assets/d12b172b-6815-4b2a-ad98-52b2e98bab9f" />
-
 <img width="484" alt="Screenshot 2025-06-06 at 19 34 25" src="https://github.com/user-attachments/assets/ce991788-4d5a-4eaf-8608-b539857fdc4b" />
-
 <img width="483" alt="Screenshot 2025-06-06 at 19 34 45" src="https://github.com/user-attachments/assets/fcbd6cb7-b095-4326-8628-30a2a3d9f08d" />
-
 <img width="480" alt="Screenshot 2025-06-06 at 19 35 13" src="https://github.com/user-attachments/assets/029aa3d1-a95c-4027-891c-ffd6ba3d5233" />
-
 <img width="482" alt="Screenshot 2025-06-06 at 19 35 32" src="https://github.com/user-attachments/assets/e4b773c8-4f10-40a3-9b7e-d3655488105e" />
-
 <img width="486" alt="Screenshot 2025-06-06 at 19 35 57" src="https://github.com/user-attachments/assets/73e943fe-f7d3-4b1a-a6ff-e595981c5d17" />
+<img width="480" alt="Screenshot 2025-06-06 at 19 38 57" src="https://github.com/user-attachments/assets/a3b9551c-486e-48a5-8c2e-b43ebd411636" />
+<img width="483" alt="Screenshot 2025-06-06 at 19 39 21" src="https://github.com/user-attachments/assets/6c29e11e-c61d-4620-ab50-fb5d628bb9e7" />
+<img width="477" alt="Screenshot 2025-06-06 at 19 39 38" src="https://github.com/user-attachments/assets/ba3f56fa-ba5c-4103-9dff-a7354c71974c" />
+<img width="480" alt="Screenshot 2025-06-06 at 19 39 55" src="https://github.com/user-attachments/assets/7d85d6b2-66f0-406c-9f6c-ce0924f60824" />
+<img width="478" alt="Screenshot 2025-06-06 at 19 40 10" src="https://github.com/user-attachments/assets/f43f627f-49db-46b7-a47c-4d39e35908c1" />
+<img width="480" alt="Screenshot 2025-06-06 at 19 40 24" src="https://github.com/user-attachments/assets/0ca71aa7-d706-47cb-8b33-cc622368d495" />
+
 
 
 
