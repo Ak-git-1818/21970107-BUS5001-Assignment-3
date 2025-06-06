@@ -57,6 +57,18 @@ Answer for Prompt 1:
 <img width="1280" alt="Screenshot 2025-06-06 at 18 43 50" src="https://github.com/user-attachments/assets/72ef8957-8d63-42d8-8c3a-b7a9c05e4a15" />
 <img width="1280" alt="Screenshot 2025-06-06 at 18 44 07" src="https://github.com/user-attachments/assets/8d9bb08d-dbda-43ea-9846-ae39f2ab63f8" />
 
+Prompt 2: Help me draft an outline for an academic essay discussing the importance of Zero Trust Architecture in cloud security.
+
+Answer for Prompt 2:
+<img width="1280" alt="Screenshot 2025-06-06 at 18 48 05" src="https://github.com/user-attachments/assets/02bd3add-c878-4851-a26a-a9882c1eb0dc" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 48 27" src="https://github.com/user-attachments/assets/2b6318be-4da4-4c65-8814-f54e348244d9" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 48 43" src="https://github.com/user-attachments/assets/0930c931-89b8-4c26-8cc6-7d6144946840" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 49 09" src="https://github.com/user-attachments/assets/91eb0c65-02a2-4b94-983b-47d7bf98a18f" />
+<img width="1277" alt="Screenshot 2025-06-06 at 18 49 30" src="https://github.com/user-attachments/assets/a5706d72-6acf-4508-b4e2-e4d667387212" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 49 48" src="https://github.com/user-attachments/assets/bcbef128-19d9-4fd6-aba8-96b7557cfca9" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 50 07" src="https://github.com/user-attachments/assets/b6cfb202-e15d-444f-a0da-8147f7c64e4a" />
+<img width="1275" alt="Screenshot 2025-06-06 at 18 50 24" src="https://github.com/user-attachments/assets/bf5f8da4-3aa1-4077-b6ed-da34a1acf66c" />
+
 
 
 
