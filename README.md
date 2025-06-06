@@ -37,6 +37,31 @@ Answer for Prompt 2:
 <img width="1280" alt="Screenshot 2025-06-06 at 18 34 45" src="https://github.com/user-attachments/assets/849ab96b-1bf5-4d19-b3b6-40ad8c0970c8" />
 <img width="1280" alt="Screenshot 2025-06-06 at 18 34 59" src="https://github.com/user-attachments/assets/6049d22b-a6e0-4974-9585-938605997829" />
 
+3. Research Assistance and Outline Creation
+
+Prompt 1: Create a research outline for a report titled 'Ethical and Legal Considerations in AI-Driven Cloud Platforms', using the lecture materials.
+
+Answer for Prompt 1:
+
+<img width="1280" alt="Screenshot 2025-06-06 at 18 39 44" src="https://github.com/user-attachments/assets/5d5ccee5-a31f-4165-9eab-6222b45113ad" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 40 33" src="https://github.com/user-attachments/assets/79838fe4-5cd6-45c3-abf9-7d3bcf52d1b8" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 40 52" src="https://github.com/user-attachments/assets/b656940c-3434-40f7-af50-9ac0a22ee4e7" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 41 10" src="https://github.com/user-attachments/assets/471be079-14d7-4445-b3b0-85ae0d03b944" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 41 30" src="https://github.com/user-attachments/assets/dd8341df-339f-4164-89f8-f1ac512ed695" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 41 51" src="https://github.com/user-attachments/assets/685716d4-8b64-4c94-bdca-caba1b4e0d5b" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 42 08" src="https://github.com/user-attachments/assets/3d8ef8f8-14da-4829-9519-01e1e5923cbc" />
+<img width="1279" alt="Screenshot 2025-06-06 at 18 42 26" src="https://github.com/user-attachments/assets/3fd1b22b-0341-4c01-8759-4be4c17fa477" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 42 51" src="https://github.com/user-attachments/assets/22e0a3b3-5a06-433b-a47d-1522c5550678" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 43 11" src="https://github.com/user-attachments/assets/01f0f88c-79cc-4712-a6bf-c74b2ec3a369" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 43 33" src="https://github.com/user-attachments/assets/49ff5d37-d5a5-4918-9a22-c78ef5dfa651" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 43 50" src="https://github.com/user-attachments/assets/72ef8957-8d63-42d8-8c3a-b7a9c05e4a15" />
+<img width="1280" alt="Screenshot 2025-06-06 at 18 44 07" src="https://github.com/user-attachments/assets/8d9bb08d-dbda-43ea-9846-ae39f2ab63f8" />
+
+
+
+
+
+
 
 
 
